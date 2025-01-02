@@ -4,6 +4,8 @@ Lifeboat is a Shortcuts nade browser that only works on Apple products atm.
 
 Download: https://linkcuts.com/LifeboatV2
 
+![qr-code](https://github.com/user-attachments/assets/644ad3c2-fc6d-4685-b13a-00915fdba04a)
+
 Source code can be found here:
 
 [ ask for "" with "Enter Query (Google)"
