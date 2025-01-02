@@ -11,27 +11,27 @@ https://linkcuts.com/LifeboatV2
 
 
 # Install
-Click the link above.
-Click "Get Shortcut"
-Open the Shortcuts app 
-Close the open Shortcut
-Click "Lifeboat"
+Click the link above,
+Click "Get Shortcut",
+Open the Shortcuts app,
+Close the open Shortcut,
+Click "Lifeboat",
 The GUI will now run.
 
 # Add to Home
 To add to the Home Screen:
-Hold the "Lifeboat" shortcut in the app
-Click "Details"
-Select "Add to the Home Screen"
+Hold the "Lifeboat" shortcut in the app,
+Click "Details",
+Select "Add to the Home Screen".
 
 # Updating
 To update:
-Hold the "Lifeboat" shortcut in the app
-Press "Delete"
+Hold the "Lifeboat" shortcut in the app,
+Press "Delete",
 (This will clear all Lifeboat data)
-Open the new Download link
-Click "Get Shortcut"
-Close the open Shortcut
+Open the new Download link,
+Click "Get Shortcut",
+Close the open Shortcut.
 
 # Source
 Source code can be found here:
@@ -40,7 +40,7 @@ Source code can be found here:
  get url's from "https://google.com/search?q=(Provided Input)"
 show web view at (URL's) ]
 
-Anything in ()'s are variables
+Anything in ()'s are variables.
 
 # Older Versions
 Older Versions are in the legacy.md file in main
