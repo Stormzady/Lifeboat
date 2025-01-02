@@ -2,7 +2,7 @@
 
 Lifeboat is a Shortcuts nade browser that only works on Apple products atm.
 
-Download: linkcuts.com/LifeboatV2
+Download: https//:linkcuts.com/LifeboatV2
 
 Source code can be found here:
 
