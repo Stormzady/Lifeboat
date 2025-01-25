@@ -4,8 +4,10 @@ Lifeboat is a Shortcuts nade browser that only works on Apple products atm.
 
 # Download
 <a  href="linkcuts.com/LifeboatV2">Latest Stable Release. </a>
+
 <a href="https://www.icloud.com/shortcuts/b688fe5b7c094572b36d10aaeb3b19e0">Unstable Dev Build. </a>
-<a href=GitHub.com/Stormzady/Lifeboat/legacy.md </a>
+
+<a href=GitHub.com/Stormzady/Lifeboat/legacy.md> </a>
 
 
 
