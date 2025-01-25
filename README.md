@@ -37,13 +37,7 @@ Click "Get Shortcut",
 Close the open Shortcut.
 
 # Source
-Source code can be found here:
-
-[ ask for "" with "Enter Query (Google)"
- get url's from "https://google.com/search?q=(Provided Input)"
-show web view at (URL's) ]
-
-Anything in ()'s are variables.
+Download and in the Shortcuts app, click the 3 dots on the Lifeboat icon and all the code is there.
 
 # Contribution 
 To contribute,download and make changes then click the share icon and click Copy iCloud Link then change the hyper link for Unstable Dev Build and then submit a pull request and you are set.
