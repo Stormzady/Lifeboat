@@ -45,5 +45,5 @@ show web view at (URL's) ]
 
 Anything in ()'s are variables.
 
-# Older Versions
-Older Versions are in the legacy.md file in main
+# Contribution 
+To contribute,download and make changes then click the share icon and click Copy iCloud Link then change the hyper link for Unstable Dev Build and then submit a pull request and you are set.
