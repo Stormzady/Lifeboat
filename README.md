@@ -1,3 +1,5 @@
+# LIFEBOAT HAS HALTED PRODUCTION UNTIL AUGUST 2025
+
 # Lifeboat - The most mini browser ever  
 
 Lifeboat is a Shortcuts nade browser that only works on Apple products atm.
