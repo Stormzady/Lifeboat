@@ -1,4 +1,4 @@
-# LIFEBOAT HAS HALTED PRODUCTION UNTIL AUGUST 2025
+## Lifeboat is currently not being worked on.
 
 # Lifeboat - The most mini browser ever  
 
